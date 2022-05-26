@@ -1,8 +1,8 @@
 <!--
 title:  Windows への Node.js (npm) のインストール
-tags: node.js npm windows
+tags:   node.js npm windows
 author: gahoh
-slide: false
+slide:  false
 -->
 Windows10 のPCに[Node.js](https://nodejs.org/ja/about/) とパッケージ管理システム [npm](https://ja.wikipedia.org/wiki/Npm_(%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8%E7%AE%A1%E7%90%86%E3%83%84%E3%83%BC%E3%83%AB)) (Node Package Manager) をインストールして確認するまでの手順を備忘録としてまとめました。参考にして頂ければ幸いです。
 
