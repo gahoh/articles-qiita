@@ -1,5 +1,5 @@
 <!--
-title:  Windows への Node.js (npm) のインストール
+title:  Windows への Node.js（npm）のインストール
 tags:   node.js npm windows
 author: gahoh
 slide:  false
