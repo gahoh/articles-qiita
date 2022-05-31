@@ -1,6 +1,6 @@
 <!--
 title:   Windows への Node.js（npm）のインストール
-tags:    Node.js,Windows,npm
+tags:    Node.js,Windows,npm,インストール
 id:      8444da99a1f93b6493b4
 private: false
 -->
