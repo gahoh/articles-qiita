@@ -2,7 +2,6 @@
 title: macOS に Node.js (npm) をインストールする方法
 tags:  nodejs npm install macos
 -->
-
 macOS のPCに[Node.js](https://nodejs.org/ja/about/)とパッケージ管理システム npm (Node Package Manager) をインストールして確認するまでの手順を備忘録としててまとめました。参考にして頂ければ幸いです。
 
 - 前提条件（環境） 
