@@ -1,6 +1,6 @@
 <!--
-title:   TITLE
-tags:    tag
+title:   macOS に Node.js (npm) をインストールする方法
+tags:    Node.js,install,macOS,npm
 id:      d2004f711748bf493f6a
 private: true
 -->
