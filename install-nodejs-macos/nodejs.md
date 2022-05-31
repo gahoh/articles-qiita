@@ -24,12 +24,4 @@ Node.jsの[公式日本語サイト](https://nodejs.org/ja/)にアクセスす�
 ![image.png](./images/download1.png) <br>
 ここでは、LTS（安定版）の 16.15.0　をダウンロードしています。<br>
 
-<!--
-![image.png](./images/download2.png)
--->
-
-<!--
-ダウンロードされます。<br>
-左下の [node-v16.15.0.pkg]　をクリックし、[Finder で表示を]　を選択することで、ダウンロードしたインストーラーが展開されます。
-![image.png](./images/download3.png)
--->
+---
