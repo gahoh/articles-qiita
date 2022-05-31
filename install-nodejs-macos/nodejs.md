@@ -34,27 +34,27 @@ Node.jsの[公式日本語サイト](https://nodejs.org/ja/)にアクセスす�
 
 ダウンロードしたインストーラー node-v16.15.0.pkg をクリックし、インストール実行します。<br>
 インストール画面が起動したら、[続ける] をクリックする。<br>
-![image.png](./images/Install1.png)<br>
+![image.png](images/Install1.png)<br>
 
 ## 使用許諾契約
 
 使用許諾契約を確認・チェックしたあとに[続ける] をクリックする。<br>
-![image.png](./images/Install2.png)<br>
+![image.png](images/Install2.png)<br>
 次のような画面が表示されたら、[同意する] をクリックする。<br>
-![image.png](./images/Install3.png)<br>
+![image.png](images/Install3.png)<br>
 
 ## インストール先
 
 ### インストール先の選択
 [続ける] をクリックする。<br>
-![image.png](./images/Install4.png)<br>
+![image.png](images/Install4.png)<br>
 
 ## インストール先の種類
 インストール先を指定します。ここでは、特に変更しなくて進めていきます。<br>
 [インストール] をクリックする。<br>
-![image.png](./images/Install5.png)<br>
+![image.png](images/Install5.png)<br>
 パスワードを入力し、[ソフトウェアをインストール] をクリックする。<br>
-![image.png](./images/Install6.png)<br>
+![image.png](images/Install6.png)<br>
 インストール中になります。しばらくお待ちください。
 
 ## インストール
@@ -62,10 +62,10 @@ Node.jsの[公式日本語サイト](https://nodejs.org/ja/)にアクセスす�
 ## 概要
 
 インストールが完了。<br>
-![image.png](./images/Install7.png)<br>
+![image.png](images/Install7.png)<br>
 
 [閉じる]をクリックする。<br>
-![image.png](./images/Install8.png)<br>
+![image.png](images/Install8.png)<br>
 
 以上でインストール完了となります。
 
@@ -73,7 +73,7 @@ Node.jsの[公式日本語サイト](https://nodejs.org/ja/)にアクセスす�
 
 引き続き、ちゃんとインストールされたかの確認も行っていきます。<br>
 
-Node.jsとnpmのインストールを確認するには、ターミナル<img src="./images/terminal.png" alt="terminal" width="50" height="50">で次のコマンドを実行します。
+Node.jsとnpmのインストールを確認するには、ターミナルで次のコマンドを実行します。
 
 ```
 node -v; npm -v
