@@ -93,4 +93,4 @@ $ yarn -v
 $
 ```
 
-これで、macOS に Yarn (Yarn Classic) のインストールは完了です。
+これで、macOS への Yarn (Yarn Classic) のインストールは完了です。
